@@ -22,8 +22,8 @@
  </div>
  
 <div align="center"> 
-  <a href="mailto:shivmahobia83@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  <a href="https://twitter.com/shivmahobia99" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white " target="_blank" />
   </a>
   <a href="https://linkedin.com/in/shivmahobia" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
@@ -38,8 +38,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,github,python,javascript,typescript,express,firebase,mongodb,c,cpp" /><br>
-    <img src="https://skillicons.dev/icons?i=react,r,bootstrap,mui,mysql,flask,html,css,vscode,figma,git" />
+    <img src="https://skillicons.dev/icons?i=angular,nodejs,kafka,python,javascript,typescript,express,firebase,mongodb,c,cpp" /><br>
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mysql,html,css,vscode,figma,postman,git,github" />
 </div>
 <br/>
 
