@@ -9,7 +9,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a chat  app**
+ 🔭 I’m currently working on **a chat h  app**
  
  🌱 I’m currently learning **Flutter, Tailwind**
 
