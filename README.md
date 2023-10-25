@@ -9,9 +9,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a chat app**
+ 🔭 I’m currently working on **Chat App**
  
- 🌱 I’m currently learning **Flutter, Tailwind**
+ 🌱 I’m currently learning **React Native**
 
  💬 Ask me about **Node.js, Angular, MongoDB... or anything [here](https://github.com/shivmahobia/shivmahobia/issues)**
 
